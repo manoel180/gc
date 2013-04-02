@@ -1,0 +1,4 @@
+gc
+==
+
+Gestor Celular
